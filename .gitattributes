@@ -1,2 +1,4 @@
 *.dart linguist-language=Dart
 lib/** linguist-language=Dart
+android/** linguist-vendored
+ios/** linguist-vendored
