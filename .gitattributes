@@ -1,0 +1,2 @@
+*.dart linguist-language=Dart
+lib/** linguist-language=Dart
