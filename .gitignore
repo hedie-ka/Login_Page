@@ -1,0 +1,16 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+# Optional
+*.iml
+*.log
+*.tmp
+*.swp
+.DS_Store
